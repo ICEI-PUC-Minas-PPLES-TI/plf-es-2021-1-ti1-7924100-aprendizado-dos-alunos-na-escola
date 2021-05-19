@@ -1,6 +1,5 @@
 ﻿# Projeto da Solução
 
-<span style="color:red">Pré-requisitos: <a href="4-Gestão-Configuração.md"> Ambiente e Ferramentas de Trabalho</a></span>
 
 ## Tecnologias Utilizadas
 
@@ -23,9 +22,19 @@
 
 Os componentes que fazem parte da solução são apresentados na Figura que se segue.
 ![Diagrama](images/diagrama.png "Diagrama")
+A solução implementada conta com os seguintes módulos:
+* Navegador - Interface básica do sistema .
+* - Pagina Master0wl - Guias do nosso projeto:
+* - Login - Pagina onde o usuario vai se cadastrar ou fazer login para quem já possui uma conta.
+* - Novidades - Pagina onde direciona para notícias/assuntos recentes.
+* - Notas - Direciona para as notas individuais do aluno.
+* - Perfil - No perfil ficará os materiais salvos, que o aluno fez e o salvou.
+* - Matérias - Todas opções de matérias que temos estará na barra.
+* - Contatos - Direciona o aluno ao contato dos desenvolvedores, para quaisquer dúvidas.
 
 
 
 
 
-![Exemplo de UserFlow](images/userflow.jpg)
+
+
