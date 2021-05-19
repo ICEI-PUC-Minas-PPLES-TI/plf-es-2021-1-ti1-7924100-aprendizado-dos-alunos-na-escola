@@ -1,18 +1,10 @@
 # Especificações Do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Contexto.md"> Documentação de Contexto</a></span>
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+A maior parte dos estudantes de ensino fundamental e médio enfrentam dificuldades em absorver o conhecimento de determinadas disciplinas as quais são oferecidas nas escolas. Esses dados foram concluídos através da entrevista realizada com alguns estudantes para o projeto. Diante disso, os pontos mais relevantes a serem realizados no projeto estão expostos em formas de personas e histórias de usuários.
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em
-se desenvolver profissionalmente através de um mestrado fora do país,
-pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está
-buscando uma agência que o ajude a encontrar universidades na Europa
-que aceitem alunos estrangeiros.
+As personas levantadas durante o processo de entendimento do problema são apresentadas nos cards a seguir:
 
 
 > Enumere e detalhe as personas da sua solução. Para
