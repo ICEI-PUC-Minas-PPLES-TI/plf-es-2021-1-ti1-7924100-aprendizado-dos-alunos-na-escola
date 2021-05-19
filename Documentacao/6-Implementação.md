@@ -1,4 +1,4 @@
-# Projeto da Solução
+﻿# Projeto da Solução
 
 <span style="color:red">Pré-requisitos: <a href="4-Gestão-Configuração.md"> Ambiente e Ferramentas de Trabalho</a></span>
 
@@ -19,13 +19,12 @@
 
 ## Arquitetura da solução
 
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
+### Diagrama de Componentes
 
-A imagem a seguir ilustra a o fluxo do usuário em nossa solução. Assim
-que o usuário entra na plataforma, ele é apresentado à tela inicial
-(Tela 1) onde ele é confrontado com as opões de editar seu perfil ou
-então visualizar sua galeria.
+Os componentes que fazem parte da solução são apresentados na Figura que se segue.
+![Diagrama](images/diagrama.png "Diagrama")
+
+
 
 Caso ele opte por seguir pelo primeiro caminho (Editar Perfil), ele é
 redirecionado para a tela de edição de perfil (Tela 2), onde pode
