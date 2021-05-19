@@ -1,61 +1,33 @@
 # Introdução
+O projeto visa compreender o problema relacionado ao aprendizado dos alunos nas escolas, tendo como prioridade crianças e adolescentes, estudantes dos ensinos fundamental e médio. Com o problema definido, o projeto terá como meta tratar a solução para este problema interagindo diretamente com o usuário e aprimorando a solução à medida em que avança a compreensão.
 
 ## Problema
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Com base em entrevista qualitativa, é um fato que a maior parte dos estudantes de ensinos fundamental e médio enfrentam dificuldades em absorver o conhecimento de determinadas disciplinas as quais são oferecidas nas escolas. As disciplinas e os relatos dos “por quês” das dificuldades variam, o que dificulta encontrar um padrão para ser seguido na busca exata do problema.
+Os pais ou responsáveis das crianças e adolescentes entendem a dificuldade de seus filhos em determinadas matérias, mas devido ao pouco tempo disponível, não conseguem auxiliar de forma prática seus filhos.
+Professores entendem que a aplicação de metodologia tem uma barreira de dificuldade, pois crianças e adolescentes são singulares e uma metodologia que é funcional para um aluno pode não ser para outro. Sendo este um ponto de dificuldade na interação com os alunos de maneira abrangente.
 
-## Objetivos
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+## Objetivo
+
+O projeto tem como objetivo entregar àqueles alunos com dificuldades em absorver determinadas disciplinas uma maneira diferente de aprender, tornando-se uma ferramenta auxiliar para os professores e pais na resolução do problema das crianças e adolescentes.
+
+O projeto visa:
+- Proporcionar várias maneiras de se ensinar determinadas disciplinas escolares, variando metodologias e abrangem qualquer tipo de público-alvo;
+- Tratar o problema de cada aluno de maneira singular;
+- Servir como ferramenta de aprendizagem, respeitando os direitos humanos e as normas regulamentares cabíveis.
+
 
 ## Justificativa
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Todos os envolvidos no projeto se comprometem a atender o objetivo proposto, contribuindo com seus papeis para o desenvolvimento de uma aplicação que seja funcional e intuitiva.
 
 ## Público-Alvo
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
- 
+O público alvo do projeto pode ser identificado com base no Canvas abaixo:
+
+![Canvas de relação Público Alvo](images/Rel_Publico_Alvo.jpg "Relação Público Alvo")
+
+Pode-se observar que os principais envolvidos serão alunos, pais/responsáveis e professores, tendo este grupo como o principal público alvo do projeto.
+Em uma segunda esfera de grau de importância, encontram-se colegas de classe, a escola e a família de uma maneira mais abrangente, como tios, primos, avós, etc.
+Seguindo o grau de importância do público alvo, encontram-se políticos, que terão papel importante em normatizar e legalizar o uso da aplicação, mídia e influencers na divulgação e popularização da aplicação.
+
