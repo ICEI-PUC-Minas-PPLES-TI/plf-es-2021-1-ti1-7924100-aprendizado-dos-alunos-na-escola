@@ -1,6 +1,6 @@
 # MasterOwl
 
-O ibjetivo do projeto é facilitar o aprendizado dos alunos como um complemento para a escola.
+O objetivo do projeto é facilitar o aprendizado dos alunos como um complemento para a escola.
 
 ## Alunos integrantes da equipe
 
