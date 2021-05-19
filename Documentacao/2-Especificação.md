@@ -32,15 +32,15 @@ A tabela mostra as descrições dos requisitos com sua prioridade:
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-| RF-01 | O site deve apresentar na página principal o conteúdo mais relevante para o usuário. | Alta |
-| RF-02 | O site deve apresentar, para cada conteúdo, uma imagem correspondente ao assunto apresentado. | Média |
-| RF-03 | O site deve permitir ao usuário o acesso ao conteúdo digital relacionado à matéria para estudo. | Alta |
-| RF-04 | O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um assunto específico que será informado na caixa de pesquisa. | Alta |
-| RF-05 | O site deve permitir visualizar as informações de contatos do mantenedor do site. | Média |
-| RF-06 | O site deve permitir visualizar as informações de contatos do mantenedor do site. | Média |
-| RF-07 | O site deve permitir o upload de material por parte dos professores para as matérias. | Alta |
-| RF-08 | O site deve permitir salvar os conteúdos escolhidos. | Baixa |
-| RF-09 | O site deve permitir que os usuários possam comentar sobre o que acharam do conteúdo já assistido. | Baixa |
+| RF-001 | O site deve apresentar na página principal o conteúdo mais relevante para o usuário. | Alta |
+| RF-002 | O site deve apresentar, para cada conteúdo, uma imagem correspondente ao assunto apresentado. | Média |
+| RF-003 | O site deve permitir ao usuário o acesso ao conteúdo digital relacionado à matéria para estudo. | Alta |
+| RF-004 | O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um assunto específico que será informado na caixa de pesquisa. | Alta |
+| RF-005 | O site deve permitir visualizar as informações de contatos do mantenedor do site. | Média |
+| RF-006 | O site deve permitir visualizar as informações de contatos do mantenedor do site. | Média |
+| RF-007 | O site deve permitir o upload de material por parte dos professores para as matérias. | Alta |
+| RF-008 | O site deve permitir salvar os conteúdos escolhidos. | Baixa |
+| RF-009 | O site deve permitir que os usuários possam comentar sobre o que acharam do conteúdo já assistido. | Baixa |
 
 ### Requisitos não Funcionais
 
