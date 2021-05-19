@@ -1,18 +1,18 @@
-# Nome do projeto
+# MasterOwl
 
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+O objetivo do projeto é facilitar o aprendizado dos alunos como um complemento para a escola.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Ana Flávia de Souza Ribeiro
+* Frederico Martins Rodrigues
+* Nando Augusto Veloso Tupinambá
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Roberto Felipe Dias Ferreira da Rocha
+* Rommel Vieira Carneiro
+* Will Ricardo dos Santos Machado
 
 ## Instruções de utilização
 

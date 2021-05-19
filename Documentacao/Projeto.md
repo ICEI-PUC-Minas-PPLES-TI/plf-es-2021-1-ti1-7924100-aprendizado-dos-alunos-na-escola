@@ -1,19 +1,19 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+`MasterOwl`  
 
 Trabalho Interdisciplinar - Aplicacões Web
 
-`CURSO`
+`Engenharia de Software`
 
-`SEMESTRE`
+`1º período, manhã`
 
 ## Participantes
 
 Os membros do grupo são: 
-- Fulano da Silva
-- Ciclano Albuquerque
+- Ana Flávia de Souza Ribiero
+- Frederico Martins Rodrigues
+- Nando Augusto Veloso Tupinambá
 
-> Inclua a lista dos membros da equipe com seus nomes completos.
 
 # Estrutura do Documento
 
