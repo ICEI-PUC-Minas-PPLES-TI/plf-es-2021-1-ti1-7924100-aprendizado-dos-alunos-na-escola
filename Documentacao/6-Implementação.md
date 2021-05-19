@@ -22,6 +22,7 @@
 
 Os componentes que fazem parte da solução são apresentados na Figura que se segue.
 ![Diagrama](images/diagrama.png "Diagrama")
+
 A solução implementada conta com os seguintes módulos:
 * Navegador - Interface básica do sistema .
 * - Pagina Master0wl - Guias do nosso projeto:
