@@ -10,52 +10,37 @@ As personas levantadas durante o processo de entendimento do problema são apres
 ![Persona 02 - Bernadete](images/Bernadete.jpg "Persona Bernadete")
 ![Persona 03 - Natália](images/Natalia.jpg "Persona Natália")
 
-> Enumere e detalhe as personas da sua solução. Para
-> tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-> Lembre-se que você deve ser enumerar e descrever precisamente e
-> personalizada todos os clientes ideais que sua solução almeja.
-
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+| **Eu como...** | **...quero/desejo...** | **...para...** |
+| --- | --- | --- |
+| Israel Miranda | ter acesso a conteúdos mais dinâmicos | aprender melhor as matérias |
+| Israel Miranda | poder compartilhar dúvidas sobre as matérias | conseguir, de maneira prática, solucionar as dúvidas nas matérias |
+| Bernadete Miranda | visualizar os feedbacks das aulas e exercícios do filho | ter noção das dúvidas e certezas que seu filho apresenta |
+| Natália de Souza | compartilhar os materiais para os alunos | permitir que os alunos visualizem as matérias por um meio mais atrativo |
+| Natália de Souza | postar e acessar os materiais tanto pelo desktop quanto pelo celular | facilitar nas visualizações e postagens dos materiais |
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+Os requisitos funcionais e não funcionas levantados diante as necessidades dos clientes para a construção do projeto foram:
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+A tabela mostra as descrições dos requisitos com sua prioridade:
 
+| **ID** | **DESCRIÇÃO** | **PRIORIDADE** |
+| --- | --- | --- |
+| RF-01 | O site deve apresentar na página principal o conteúdo mais relevante para o usuário. | Alta |
+| RF-02 | O site deve apresentar, para cada conteúdo, uma imagem correspondente ao assunto apresentado. | Média |
+| RF-03 | O site deve permitir ao usuário o acesso ao conteúdo digital relacionado à matéria para estudo. | Alta |
+| RF-04 | O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um assunto específico que será informado na caixa de pesquisa. | Alta |
+| RF-05 | O site deve permitir visualizar as informações de contatos do mantenedor do site. | Média |
+| RF-06 | O site deve permitir visualizar as informações de contatos do mantenedor do site. | Média |
+| RF-07 | O site deve permitir o upload de material por parte dos professores para as matérias. | Alta |
+| RF-08 | O site deve permitir salvar os conteúdos escolhidos. | Baixa |
+| RF-09 | O site deve permitir que os usuários possam comentar sobre o que acharam do conteúdo já assistido. | Baixa |
 
 ### Requisitos não Funcionais
 
