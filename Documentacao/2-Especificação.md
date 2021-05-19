@@ -6,6 +6,9 @@ A maior parte dos estudantes de ensino fundamental e médio enfrentam dificuldad
 
 As personas levantadas durante o processo de entendimento do problema são apresentadas nos cards a seguir:
 
+![Persona Israel](images/Persona Israel.png "Persona Israel")
+![Persona Bernadete](images/Persona Bernadete.png "Persona Bernadete")
+![Persona Natalia](images/Persona Natalia.png "Persona Natália")
 
 > Enumere e detalhe as personas da sua solução. Para
 > tanto, baseie-se tanto nos documentos disponibilizados na disciplina
