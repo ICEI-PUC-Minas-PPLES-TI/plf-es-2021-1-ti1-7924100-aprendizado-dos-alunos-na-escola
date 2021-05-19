@@ -1,33 +1,26 @@
 # Gerenciamento de Projeto
 
-> Descreva aqui a metodologia de trabalho do grupo para atacar o
-> problema.
+> A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento.
 
 ## Divisão de Papéis
 
-> Apresente a divisão de papéis entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+> A equipe está organizada da seguinte maneira:
+> ●    Scrum Master: Frederico Martins Rodrigues
+> ●    Product Owner: Rommel Carneiro
+> ●    Equipe de Desenvolvimento
+>    ○    Ana Flávia de Souza Ribeiro
+>    ○    Frederico Martins Rodrigues
+>    ○    Nando Augusto Veloso Tupinambá
+>●    Equipe de Design
+>    ○    Ana Flávia de Souza Ribeiro
 
 ## Processo
 
-> Coloque  informações sobre detalhes da implementação do Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+> A metodologia contempla as definições de ferramental utilizado pela equipe tanto para a manutenção dos códigos e demais artefatos quanto para a organização do time na execução das tarefas do projeto.
 
 ## Ferramentas
 
-As ferramentas empregadas no projeto são:
+> Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue. 
 
 - Editor de código.
 - Ferramentas de comunicação
