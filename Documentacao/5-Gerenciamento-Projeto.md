@@ -5,14 +5,14 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 ## Divisão de Papéis
 
 A equipe está organizada da seguinte maneira:
-●    Scrum Master: Frederico Martins Rodrigues
-●    Product Owner: Rommel Carneiro
-●    Equipe de Desenvolvimento
-   ○    Ana Flávia de Souza Ribeiro
-   ○    Frederico Martins Rodrigues
-   ○    Nando Augusto Veloso Tupinambá
-●    Equipe de Design
-   ○    Ana Flávia de Souza Ribeiro
+- Scrum Master: Frederico Martins Rodrigues
+- Product Owner: Rommel Carneiro
+- Equipe de Desenvolvimento
+- - Ana Flávia de Souza Ribeiro
+- - Frederico Martins Rodrigues
+- - Nando Augusto Veloso Tupinambá
+- Equipe de Design
+- - Ana Flávia de Souza Ribeiro
 
 ## Processo
 
