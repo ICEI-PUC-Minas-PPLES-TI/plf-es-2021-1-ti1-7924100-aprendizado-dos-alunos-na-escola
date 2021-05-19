@@ -30,7 +30,7 @@ Os requisitos funcionais e não funcionas levantados diante as necessidades dos 
 
 A tabela mostra as descrições dos requisitos com sua prioridade:
 
-| **ID** | **DESCRIÇÃO** | **PRIORIDADE** |
+| **ID**       | **DESCRIÇÃO** | **PRIORIDADE** |
 | --- | --- | --- |
 | RF-01 | O site deve apresentar na página principal o conteúdo mais relevante para o usuário. | Alta |
 | RF-02 | O site deve apresentar, para cada conteúdo, uma imagem correspondente ao assunto apresentado. | Média |
