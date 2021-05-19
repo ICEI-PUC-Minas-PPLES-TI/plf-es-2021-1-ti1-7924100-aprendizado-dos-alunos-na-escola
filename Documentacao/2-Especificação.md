@@ -31,7 +31,7 @@ Os requisitos funcionais e não funcionas levantados diante as necessidades dos 
 A tabela mostra as descrições dos requisitos com sua prioridade:
 
 |ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
+| --------- | ------------------------- | ---- |
 | RF-001 | O site deve apresentar na página principal o conteúdo mais relevante para o usuário. | Alta |
 | RF-002 | O site deve apresentar, para cada conteúdo, uma imagem correspondente ao assunto apresentado. | Média |
 | RF-003 | O site deve permitir ao usuário o acesso ao conteúdo digital relacionado à matéria para estudo. | Alta |
