@@ -30,8 +30,8 @@ Os requisitos funcionais e não funcionas levantados diante as necessidades dos 
 
 A tabela mostra as descrições dos requisitos com sua prioridade:
 
-| **ID**     | **Descrição do Requisito** | **Prioridade** |
-| --------- | ------------------------- | ---- |
+| **ID**               | **Descrição do Requisito** | **Prioridade** |
+| ---------------- | ------------------------- | ---- |
 | RF-001 | O site deve apresentar na página principal o conteúdo mais relevante para o usuário | Alta |
 | RF-002 | O site deve apresentar, para cada conteúdo, uma imagem correspondente ao assunto apresentado | Média |
 | RF-003 | O site deve permitir ao usuário o acesso ao conteúdo digital relacionado à matéria para estudo | Alta |
@@ -46,8 +46,8 @@ A tabela mostra as descrições dos requisitos com sua prioridade:
 
 A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender:
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
+| **ID**               | **Descrição do Requisito** | **Prioridade** |
+| ---------------- | ------------------------- | ---- |
 |RNF-001| O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it) | Alta | 
 |RNF-002| O site deverá ser responsivo permitindo a visualização em um celular de forma adequada | Alta | 
 |RNF-003| O site deve ter bom nível de contraste entre os elementos da tela em conformidade | Média |
@@ -57,8 +57,8 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 
 As limitações para a execução desse projeto e que consequentemente são obrigações para o desenvolvimento estão na tabela abaixo:
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
+|**ID**           | **Restrição**                                             |
+|--------------|-------------------------------------------------------|
 |RE-01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 20/06/2021 |
 |RE-02| O aplicativo deve se restringir às tecnologias básicas da Web no Frontend |
 |RE-03| A equipe não pode subcontratar o desenvolvimento do trabalho |
