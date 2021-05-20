@@ -11,6 +11,7 @@ Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do si
  
 ## Tela de login
 A tela de login apresenta os campos necessários para acessar a página. Nela é colocado email que foi cadastrado no site.
+
 ![Tela de login](images/login.jpeg "Tela de Login")
 
 ## Tela de recuperação de senha
