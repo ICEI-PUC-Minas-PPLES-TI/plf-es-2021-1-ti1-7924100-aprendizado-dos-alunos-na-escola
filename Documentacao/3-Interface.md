@@ -1,36 +1,72 @@
 
 # Projeto de Interface
+De acordo com a necessidade que as personas apresentaram, presamos por um design de interface que fosse de fácil acesso para todos os usuários.
+Fluxo do Usuário
+ 
+## Fluxo de telas do usuário
+Wireframes
+Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. Nesta estrutura, existem 2 grandes blocos, descritos a seguir. São eles:
+*	Cabeçalho - local onde estão localizados a logo e outros elementos de navegação;
+*	Conteúdo - apresenta o conteúdo da tela selecionada.
+ 
+## Tela de login
+A tela de login apresenta os campos necessários para acessar a página. Nela é colocado email que foi cadastrado no site.
+![Tela de login](images/login.jpeg "Tela de Login")
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação.md"> Documentação de Especificação</a></span>
+## Tela de recuperação de senha
+Caso o usuário esqueça a senha cadastrada no site, ele deverá clicar no comando “Esqueceu a senha?” e será transferido para a página de recuperação de senha.
 
-> Apresente as principais a interface da plataforma. Discuta como ela
-> foi elaborada de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](2-Especificação.md).
+ 
+Tela de recuperação de senha
+ 
+Tela de cadastro
+Caso o usuário não seja cadastrado no site, ele será encaminhado para a tela de cadastro, onde mostrará o que é necessário para se cadastrar no site.
 
-## User Flow
+ 
+Tela de cadastro
 
-![Exemplo de UserFlow](images/userflow.jpg)
+Tela principal
+A tela principal mostra todo o conteúdo do site e onde o usuário pode navegar, como o menu de matérias, contatos, novidades, notas e perfil.
 
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
-> mapear todo fluxo de telas do site ou app. Essa técnica funciona
-> para alinhar os caminhos e as possíveis ações que o usuário pode
-> fazer junto com os membros de sua equipe.
->
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
+ 
+Tela principal
+Tela - Menu de Matérias
+Após o usuário clicar em alguma matéria apresentada no Menu de Matérias, ele será encaminhado para uma página que apresenta todo o conteúdo, como vídeo aula e atividades, postado sobre esse assunto e poderá fazer comentários sobre algum material não encontrado ou suas dúvidas.
+
+ 
+Tela – Menu de Matérias
+
+Tela - Contatos
+A tela de contatos apresenta todas as formas possíveis para o usuário entrar em contato com os desenvolvedores do site. 
+
+ 
+Tela - Contatos
 
 
-## Wireframes
+Tela - Resultado de Pesquisa
+Caso o usuário pesquise alguma informação na barra de pesquisa, apresentado na tela principal, ele será encaminhado para a tela de resultado de pesquisa.
 
-![Exemplo de Wireframe](images/wireframe-example.png)
+ 
+Tela - Resultado de Pesquisa
+Tela - Novidades
+Caso o usuário pesquise alguma informação na barra de pesquisa, apresentado na tela principal, ele será encaminhado para a tela de resultado de pesquisa.
 
-> São protótipos usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante do
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
+ 
+Tela - Novidades
+ 
+Tela - Notas
+A tela notas permite o usuário ver seu desempenho em suas atividades realizadas e visualizar algum comentário feito por professores.
+
+ 
+Tela - Notas
+Tela - Perfil
+A tela de perfil permite que o usuário visualize suas informações pessoais e seus materiais salvos. 
+
+ .
+Tela - Perfil
+ 
+Tela - Materiais Salvos 
+A tela de Materiais Salvos apresenta todos os materiais que o usuário salvou para futuras visualizações.
+
+ 
+Tela - Materiais 
