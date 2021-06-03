@@ -184,11 +184,11 @@ Critérios de Êxito	•	O site deve funcionar nos principais navegadores do mer
 -----------------------------------------------------------------------
 
 # Plano de teste de usabilidade
-## •	Identificação de objetivos a serem validados.##
+## •	Identificação de objetivos a serem validados.
 
 O projeto tem como objetivo entregar àqueles alunos com dificuldades em absorver determinadas disciplinas uma maneira diferente de aprender, tornando-se uma ferramenta auxiliar para os professores e pais na resolução do problema das crianças e adolescentes.
 
-## •	Detalhes do público a ser envolvido.##
+## •	Detalhes do público a ser envolvido.
 
 O objetivo do público são divididas em 3 classes: Alunos, Professores e Responsáveis. 
 
@@ -198,7 +198,7 @@ Os professores estão envolvidos na parte de postarem matérias e atividades par
 
 Os responsáveis estão envolvidos na parte de visualizar o feedback de seus filhos/filhas através da tela de notas e de entrarem em contato com os desenvolvedores.
 
-## •	Roteiro detalhado das tarefas a serem desempenhadas pelos usuários.##
+## •	Roteiro detalhado das tarefas a serem desempenhadas pelos usuários.
 
 1 Tarefa. Abrir o site e cadastrar uma conta.
 
