@@ -9,7 +9,7 @@
 
 ## Plano de Testes
 
-> Enumere quais cenários de testes foram selecionados para teste. Neste
+> Enumere quais cenários de testes foram selecionados para teste. Neste434
 > tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
 > de usuários que foi escolhido para participar do teste e as
 > ferramentas utilizadas.
