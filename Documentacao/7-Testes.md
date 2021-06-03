@@ -182,3 +182,41 @@ para a tela de contatos
 Critérios de Êxito	•	O site deve funcionar nos principais navegadores do mercado
 
 -----------------------------------------------------------------------
+
+# Plano de teste de usabilidade
+## •	Identificação de objetivos a serem validados.##
+
+O projeto tem como objetivo entregar àqueles alunos com dificuldades em absorver determinadas disciplinas uma maneira diferente de aprender, tornando-se uma ferramenta auxiliar para os professores e pais na resolução do problema das crianças e adolescentes.
+
+## •	Detalhes do público a ser envolvido.##
+
+O objetivo do público são divididas em 3 classes: Alunos, Professores e Responsáveis. 
+
+Os alunos então envolvidos nas partes de resolverem suas tarefas, receberem suas notas, seus horários de aula e para tirar qualquer tipo de dúvida com seus professores.
+
+Os professores estão envolvidos na parte de postarem matérias e atividades para os alunos e de responderem suas dúvidas.
+
+Os responsáveis estão envolvidos na parte de visualizar o feedback de seus filhos/filhas através da tela de notas e de entrarem em contato com os desenvolvedores.
+
+## •	Roteiro detalhado das tarefas a serem desempenhadas pelos usuários.##
+
+1 Tarefa. Abrir o site e cadastrar uma conta.
+
+2 Tarefa. Depois de criar sua conta, efetuar o login.
+
+3 Tarefa. Depois de efetuar seu login, ele irá para a tela principal do site.
+
+4 Tarefa. Na tela principal, o usuário ele pode ir para a tela de novidades, onde irá mostrar as novidades mais recentes/importantes.
+
+5 Tarefa. Na tela principal, o usuário pode ir para a tela de menu de matérias, onde estará todas as matérias que estão disponíveis.
+
+6 Tarefa. Na tela principal, o usuário pode ir para a tela de contatos, onde ficará o número pessoal ou email dos desenvolvedores do site.
+
+7 Tarefa. Na tela principal, o usuário pode ir para a tela de notas, onde ele conseguirá ver seus resultados que obteve nas tarefas/atividades.
+
+8 Tarefa. Na tela principal, o usuário pode ir para a tela de resultado de pesquisa, que faz com que ele pesquise algo e seja direcionado para algo que ele buscou.
+
+9 Tarefa. Na tela principal, o usuário pode ir para a tela de perfil, onde ficará suas informações privadas.
+
+10 Tarefa. Na tela principal, o usuário pode ir para a tela de materiais salvos, onde apresenta todos os materiais que o usuário salvou para futuras visualizações.
+
