@@ -23,7 +23,8 @@
 
 **Objetivo do Teste-**	Verificar se cada conteúdo apresenta uma imagem
 
-**Passos-**	1) Acessar o Navegador
+**Passos-**	
+1) Acessar o Navegador
 2) Verificar se apresenta uma imagem para cada assunto apresentado
 
 **Critérios de Êxito-**	•	Os conteúdos devem trazer imagens visíveis associadas a ele
@@ -37,7 +38,8 @@ RF-03 - O site deve permitir ao usuário o acesso ao conteúdo digital relaciona
 
 **Objetivo do Teste-**	Verificar se o usuário tem a permissão de acesso ao conteúdo digital de cada matéria
 
-**Passos-**	1) Acessar o Navegador
+**Passos-**	
+1) Acessar o Navegador
 2) Informar o endereço do Site
 3) Visualizar a página principal
 4) Clicar em alguma matéria escolhida
@@ -53,7 +55,8 @@ RF-03 - O site deve permitir ao usuário o acesso ao conteúdo digital relaciona
 
 **Objetivo do Teste-**	Verificar se na tela inicial apresenta o comando “pesquisar” e se o usuário será guiado para a tela de resultado de pesquisa.
 
-**Passos-**	1) Acessar o Navegador
+**Passos-**
+1) Acessar o Navegador
 2) Visualizar a página principal
 3) Verificar se apresenta o comando pesquisar
 4) Verificar se o usuário foi encaminhado para a tela de resultados de pesquisa
@@ -69,7 +72,8 @@ RF-03 - O site deve permitir ao usuário o acesso ao conteúdo digital relaciona
 **Objetivo do Teste-**	Verificar se na tela inicial apresenta a opção de “contatos” e se o usuário será guiado 
 para a tela de contatos
 
-**Passos-**	1) Acessar o Navegador
+**Passos-**	
+1) Acessar o Navegador
 2) Visualizar a página principal
 3) Verificar se apresenta o comando contatos
 4) Verificar se o usuário foi encaminhado para a tela de contatos
@@ -80,11 +84,13 @@ para a tela de contatos
 -----------------------------------------------------------------------
 
 **Caso de Teste	CT-06 –** Visualizar na tela principal, a de contatos
+
 **Requisitos Associados**	RF-07 - O site deve permitir o upload de material por parte dos professores para as matérias.
 
 **Objetivo do Teste-**	Verificar se na tela inicial, visualizada pelo professor apresenta a opção de “Carregar conteúdo” 
 
-**Passos-**	1) Acessar o Navegador
+**Passos-**
+1) Acessar o Navegador
 2) Visualizar a página principal
 3) Verificar se apresenta o comando “Carregar conteúdo”
 
@@ -97,7 +103,8 @@ para a tela de contatos
 
 **Objetivo do Teste-**	Verificar se na tela de cada conteúdo apresenta a opção de “salvar” e se o usuário realizou o salvamento do conteúdo dentro da opção “Materiais Salvos”, que fica na tela perfil.
 
-**Passos-**	1) Acessar o Navegador
+**Passos-**	
+1) Acessar o Navegador
 2) Visualizar na tela de conteúdo a opção “salvar”
 3) Verificar se na tela perfil apresenta o comando “Materiais Salvos”
 4) Verificar se o usuário realizou o salvamento dos conteúdos escolhidos
@@ -108,9 +115,11 @@ para a tela de contatos
 **Caso de Teste	CT-08 –** Visualizar em cada tela o card de comentário
 
 **Requisitos Associados-**	RF-09 - O site deve permitir que os usuários possam comentar sobre o que acharam do conteúdo já assistido
+
 **Objetivo do Teste-**	Verificar se nas telas escolhidas pelo usuário apresenta o card de comentário e se ele tem permissão para fazer um ou mais comentários 
 
-**Passos-**	1) Acessar o Navegador
+**Passos-**
+1) Acessar o Navegador
 2) Visualizar nas telas o card de comentário
 3) Verificar se o usuário consegue fazer comentários.
 
@@ -124,9 +133,11 @@ para a tela de contatos
 **Caso de Teste	CT-01 –** Visualizar o site no Repl.it
 
 **Requisitos Associados-**	RNF-01 - O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it).
+
 **Objetivo do Teste-**	Verificar se o código está acessível no Repl.it
 
-**Passos-**	1) Acessar o Repl.it
+**Passos-**	
+1) Acessar o Repl.it
 2) Visualizar os códigos 
 3) Verificar se o documento está público na internet
 
@@ -139,7 +150,8 @@ para a tela de contatos
 
 **Objetivo do Teste-**	Verificar se o site é responsivo
 
-**Passos-**	1) Acessar o site no Repl.it em outros aparelhos eletrônicos 
+**Passos-**	
+1) Acessar o site no Repl.it em outros aparelhos eletrônicos 
 2) Verificar se o site segui o padrão responsivo
 
 **Critérios de Êxito-**	•	O site deve ser responsivo
@@ -151,7 +163,8 @@ para a tela de contatos
 
 **Objetivo do Teste-**	Verificar se o site apresenta contraste entre os elementos da tela em conformidade
 
-**Passos-**	1) Acessar o site no Repl.it
+**Passos-**	
+1) Acessar o site no Repl.it
 2) Verificar se o site apresenta contraste entre os elementos da tela em conformidade
 
 **Critérios de Êxito-**	•	O site deve apresentar um bom nível de contraste entre os elementos da tela em conformidade
@@ -164,7 +177,8 @@ para a tela de contatos
 
 **Objetivo do Teste-**	Verificar se o pode ser acessado nos principais browsers (Google Chrome, Firefox, Microsoft Edge)
 
-**Passos-**	1) Acessar o Repl.it em qualquer navegador
+**Passos-**	
+1) Acessar o Repl.it em qualquer navegador
 Critérios de Êxito	•	O site deve funcionar nos principais navegadores do mercado
 
 -----------------------------------------------------------------------
