@@ -223,3 +223,24 @@ Os responsáveis estão envolvidos na parte de visualizar o feedback de seus fil
 11 Tarefa. Na tela principal, o usuário pode ir para a tela de perfil para ver suas informações privadas. 
 
 12 Tarefa. Na tela principal, o usuário pode ir para a tela sobre, onde ele conseguirá ver o intuito do site e para que foi criado.
+
+**6.4 Registro de Testes de Usabilidade**
+
+Os resultados obtidos nos testes de usabilidade realizados são descritos na Tabela a seguir.
+
+**PESSOAS QUE TESTARAM E RELATO DE DETALHES**
+
+Anna Clara.
+Aluna da Escola Carrosel, em Nova Serrana, com 14 anos esta concluindo o 9 ano do ensino fundamental, e tem muitas dificuldades em Ciências.
+
+João Henrique Freitas.
+Aluno da Escola Anglo em São Paulo com 15 anos do 1 ano do ensino médio,ela disse que quando está em casa e acaba suas tarefas não sabe mais onde procurar pra estudar.
+
+Laura Moreira.
+Aluna da Escola Marista em Belo Horizonte, possui 16 anos e entrou no 2 ano, tem intuito de se dedicar nas matemáticas básicas
+
+Pedro Gomes.
+Aluno com as melhores notas da Escola Modelo, com 14 anos no 9 ano, diz ter muitas dificuldades ainda e deseja se dedicar nelas.
+
+**COMPROVANDO PESSOAS QUE TESTARAM**
+
