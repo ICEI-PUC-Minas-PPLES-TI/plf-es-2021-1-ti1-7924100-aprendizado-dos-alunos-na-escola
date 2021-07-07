@@ -243,6 +243,81 @@ Pedro Gomes.
 Aluno com as melhores notas da Escola Modelo, com 14 anos no 9 ano, diz ter muitas dificuldades ainda e deseja se dedicar nelas.
 
 **COMPROVANDO PESSOAS QUE TESTARAM**
+![Tela de Teste](images/quementroou.png "Tela de Teste")
+
+ **REGISTRO DE ERROS**
+
+**PROBLEMA NA 6 TAREFA**
+
+Na tela de contatos, ele não conseguirá ver os números de contatos dos desenvolvedores!
+O usuário só conseguirá ver essas redes sociais
+
+![Tela de erro6](images/Screenshot_1.png "Tela de erro6")
+
+**PROBLEMA NA 7 TAREFA**
+
+O usuário que entra pelo celular, não vai ter acesso a barra de menu, pois ela não está funcionando para smartphones.
+
+![Tela de erro7](images/menubarra3. "Tela de erro7")
+
+
+![Tela de erro78](images/menu2.png "Tela de erro8")
+
+**PROBLEMA NA 11 TAREFA**
+
+Depois de criar sua conta o menu de (PERFIL) para de funcionar, fazendo assim não conseguindo ver as informações privadas do usuário.
+
+![Tela de erro11](images/menu.png "Tela de erro11")
+
+●	**Relatório com registro dos testes feitos**
+
+**TAREFA 1**
+Bem sucedida! Se você não se cadastrar você não consegue fazer seu login!
+![Tela de cadastrar](images/tarefa1.png "Tela de cadastrar")
+
+**TAREFA 2** Bem sucedida! Com sua conta cadastrada você consegue acessar facilmente!
+![Tela de logar](images/tarefa2.png "Tela de logar")
+
+**TAREFA 3** Bem sucedida! Quando o usuário se logar, automaticamente ele vai para a tela principal
+![Tela de tarefa3](imagens/tarefa3.png "Tela de tarefa3")
+
+**TAREFA 4** Bem sucedida! Quando o usuário clicar em perfil, caso ele não esteja cadastrado, ele irá pra tela de cadastro
+![Tela de tarefa4](imagens/tarefa4.png "Tela de tarefa4")
+
+**TAREFA5** Bem sucedida! Quando o usuário clicar em matérias, ele irá ver as matérias disponíveis.
+![Tela de tarefa 5](imagens/tarefa 5.png "Tela de tarefa 5")
+![Tela de tarefa5](imagens/tarefa5.png "Tela de tarefa5")
+
+**TAREFA 8** Bem sucedida! Na parte final do site possui a parte de novidades para os usuários verem.
+![Tela de tarefa8](imagens/tarefa8.png "Tela de tarefa8")
+
+**TAREFA 9** Bem sucedida! Ao clicar na parte de Contatos o usuário pode visitar as redes sociais do criador!
+![Tela de tarefa 9](imagens/tarefa 9.png "Tela de tarefa 9")
+
+![Tela de tarefa9](imagens/tarefa9.png "Tela de tarefa9")
+
+**TAREFA 10** Bem sucedida! Se o usuário tiver salvado algum material no menu de matérias ele consegue visualizar todas elas.
+![Tela de tarefa10](imagens/tarefa10.png "Tela de tarefa10")
+
+**TAREFA 12** Bem sucedida! Ao usuário clicar em sobre, ele consegue ver o intuito e oque apresenta no site!
+![Tela de tarefa12](imagens/tarefa12.png "Tela de tarefa12")
+![Tela de tarefa 12](imagens/tarefa 12.png "Tela de tarefa 12")
+
+**RELATÓRIO DE USUÁRIOS**
+
+**Anna Clara.**
+Eu adorei o site, sem dúvidas ele será uma ferramenta que utilizarei em todos meus dias, estou no aguardo esperando os professores para lançarem matérias.
+Só acho que o site deveria ter alguns reparos, pois encontrei alguns erros, mas fora isso eu adorei!
+
+**Joao Henrique Freitas.**
+Eu estava tendo muitas dúvidas na escola, nossos professores nos recomendaram o site e disseram para ficarmos de olho para quando os professores lançarem conteúdo que seria muito bom pra nós. Única coisa que não gostei foi que achei o site muito simples, com poucas opções.
+
+**Laura Moreira.**
+Eu nem acreditei quando entrei no site, eu quero focar em matemática básica pois é o meu ponto fraco, só estou no aguardo de lançarem os conteúdo para mim ir praticando, é um site simples e prático .
+
+**Pedro Gomes.**
+Eu amo estudar, tenho muitas dificuldades mas sou bem dedicado, estou no aguardo esperando os professores lançarem algumas matérias para mim ir dedicando. Achei o site muito bom, tive alguns problemas, mas nada que atrapalhe.
+
 
 
 
