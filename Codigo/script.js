@@ -55,7 +55,7 @@ let registerForm = (register) => {
     console.log(users)
 
     updateUsersLs();
-	  return window.location.href="index.html";
+	  return window.location.href="login.html";
   }
  )
 }
@@ -78,7 +78,9 @@ let loginForm = (login) => {
     if(success)
       return window.location.href="paginicial.html";
 
-    alert('Dados incorretos.')
+    else
+    alert('Dados incorretos. Redirecionando para cadastro...')
+    window.location.href="cadastro.html";
   }
  )
 }

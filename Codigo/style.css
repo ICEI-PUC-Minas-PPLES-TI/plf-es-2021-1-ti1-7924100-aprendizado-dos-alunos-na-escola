@@ -3,12 +3,21 @@ body {
     height: 100vh;
   }
   
-  a {
+  a.comandos {
     color: #00ffc8;
     display:inline-block;
     text-decoration: none;
     font-weight: 400;
-    
+  }
+  p.recuperar {
+    color: rgb(0, 255, 179);
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 60px;
+  }
+  h1.recuperar {
+	  color: rgb(0, 255, 179);
+	  font-size: 1.2rem;
   }
   
   h2 {

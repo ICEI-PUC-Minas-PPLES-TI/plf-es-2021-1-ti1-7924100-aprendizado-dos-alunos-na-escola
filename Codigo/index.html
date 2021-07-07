@@ -1,40 +1,196 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
+
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
-    <link rel="stylesheet" href="style.css">
-    <title>Login - MasterOwl</title>
-    <script src="script.js"></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <title>MasterOwl</title>
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  <script src="https://kit.fontawesome.com/26d4a640454.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-    <div class="wrapper fadeInDown">
-        <div id="formContent">
-          <!-- Tabs Titles -->
-      
-          <!-- Icon -->
-          <div class="fadeIn first">
-            <img src="../../plf-es-2021-1-ti1-7924100-aprendizado-dos-alunos-na-escola/Codigo/img/Green Simple E-Learning Logo.png" id="icon" alt="User Icon"/>
-          </div>
-      
-          <!-- Login Form -->
-          <form id="login" method="post" action="https://postman-echo.com/post">
-            <input id="user" type="text" class="user" placeholder="Usuário" autocomplete="off">
-            <input id="pass" type="password" class="senha" placeholder="Senha">
-            <input type="submit" class="botao" value="Entrar" href="#">
-          </form>
-      
-          <!-- Remind Passowrd -->
-          <div id="formFooter">
-            <a class="comandos" href="recuperar.html">Esqueceu a senha?</a>
-            <br><a class="comandos" href="cadastro.html">Cadastrar-se</a></br>
-          </div>
-      
+  <header class="container header">
+    <div class="row">
+      <img src="img/Green Simple E-Learning Logo.png" class="logo">
+      <div class="row">
+        <div class="container_nav">
+          <input type="checkbox" id="menuToggle" onclick="menuPressed()">
+          <label for="menuToggle" class="menu-icon">
+            <i class="fa fa-bars"></i>
+            <i class="fa fa-times-circle"></i>
+          </label>
+          <nav class="nav menu1" id="menu1">
+            <a class="nav-link active" href="login.html">Perfil</a>
+            <a class="nav-link" href="#Matérias">Matérias</a>
+            <a class="nav-link" href="#contatos">Contatos</a>
+            <a class="nav-link" href="#sobre">Sobre</a>
+            </input>
         </div>
       </div>
-    </body>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+      </nav>
+    </div>
+  </header>
+  <main class="container">
+    <!--Lançamentos-->
     
+    <div class="lançamentoContainer">
+      <p class="lançamentos">Bem-Vindos!</p>
+      <h1 class="lançamentosH"> Bem-vindos(as) a plataforma MasterOwl. Esse site foi criado com o intuito de facilitar seus estudos e aprendizagem nas matérias, apresentando um conteúdo mais didático e objetivo postado por professores. Caso você apresente alguma dúvida, entre em contato com os desenvolvidores.</h1>
+     
+    </div>
+  
+
+    <!--Em destaque-->
+    <div class="destaque1">
+      <p id="Matérias" class="
+        destaque">Matérias</p>
+    <section class="row card_area">
+      <div class="col-12 col-sm-6 col-md-3 col-lg-3 img-destaque">
+        <a href="ciencias.html">
+        <img src="img/ciencias.jpg">
+        </a>
+      </div>
+      <div class="col-12 col-sm-6 col-md-3 col-lg-3 img-destaque">
+        <a href="geografia.html">
+        <img src="img/geografia.jpg">
+      </a>
+      </div>
+      <div class="col-12 col-sm-6 col-md-3 col-lg-3 img-destaque">
+        <a href="historia.html">
+        <img src="img/historia.jpg">
+      </a>
+      </div>
+      <div class="col-12 col-sm-6 col-md-3 col-lg-3 img-destaque">
+        <a href="ingles.html">
+        <img src="img/ingles.jpg">
+      </a>
+      </div>
+      <div class="col-12 col-sm-6 col-md-3 col-lg-3 img-destaque">
+        <a href="matematica.html">
+        <img src="img/matematica.jpg">
+        </a>
+      </div>
+      <div class="col-12 col-sm-6 col-md-3 col-lg-3 img-destaque">
+        <a href="portugues.html">
+        <img src="img/portugues.jpg">
+      </a>
+      </div>
+
+
+
+    </section>
+    </div>
+    <!--Contatos-->
+    <p class="ava" id="contatos">Contatos dos Desenvolvidores</p>
+    <div class="row">
+      <div class="col-12 col-sm-6 col-md-6 col-lg-3">
+        <div class="card">
+          <img src="img/Green Simple E-Learning Logo-2.png">
+          <div class="card-body">
+            
+            <h5 class="card-title">Ana Flávia</h5>
+            <p class="card-text">email: anaflavia753@gmail.com</p>
+            <input type="checkbox" id="menuToggle">
+        <label for="menuToggle" class="menu-ico">
+          <a href="https://www.facebook.com/anaflavia.souza.71"><i class="fa fa-facebook-square"></i></a>
+          <a href="https://www.instagram.com/flasriibeiro/"><i class="fa fa-instagram"></i></i></a>
+          <a href="https://twitter.com/flariibeiro"><i class="fa fa-twitter"></i></a>
+        </label>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-sm-12 col-md-6 col-lg-3">
+        <div class="card">
+          <img src="img/Green Simple E-Learning Logo-2.png">
+          <div class="card-body">
+            <h5 class="card-title">Frederico Rodrigues</h5>
+            <p class="card-text">email: fredmrodrigues@outlook.com</p>
+              <input type="checkbox" id="menuToggle">
+              <label for="menuToggle" class="menu-ico">
+                <a href="https://www.facebook.com/fred.martinz"><i class="fa fa-facebook-square"></i></a>
+                <a href="https://www.instagram.com/frederico.m.rodrigues/"><i class="fa fa-instagram"></i></i></a>
+                <a href="#"><i class="fa fa-twitter"></i></a>
+              </label>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-12 col-sm-12 col-md-6 col-lg-3">
+        <div class="card">
+          <img src="img/Green Simple E-Learning Logo-2.png">
+          <div class="card-body">
+            <h5 class="card-title">Nando Augusto</h5>
+            <p class="card-text">email: augustonando5@gmail.com</p>
+              <input type="checkbox" id="menuToggle">
+              <label for="menuToggle" class="menu-ico">
+                <a href="#"><i class="fa fa-facebook-square"></i></a>
+                <a href="https://www.instagram.com/nandoaugust0/"><i class="fa fa-instagram"></i></i></a>
+                <a href="#"><i class="fa fa-twitter"></i></a>
+              </label>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+
+    <!--Novidades-->
+    <section class="row infos">
+      <div class="col-12 col-sm-12 col-md-6 col-lg-6">
+        <p class="novidades">Novidades</p>
+        <div class="img-nov">
+          <img src="https://picsum.photos/200/100?random=1">
+          <p class="novidades-item">
+			  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati itaque unde perspiciatis, magnam amet, vel culpa ipsum ratione veniam.
+			</p>
+        </div>
+        <div class="img-nov">
+          <img src="https://picsum.photos/200/100?random=2">
+          <p class="novidades-item">
+			  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit optio, labore quae rerum, consectetur ipsa.
+			</p>
+        </div>
+      </div>
+      <div class="col-12 col-sm-12 col-md-4 col-lg-4">
+        <p class="sobre" id="sobre">Sobre</p>
+        <h1 class="sobre-item1"> O site "MasterOwl" foi criado com o intuito de facilitar os estudos e aprendizagem dos alunos nas matérias, apresentando um conteúdo mais didático e objetivo postado por professores cadastrados.
+      </h1>
+        <p class="rede-social">rede social:</p>
+
+        <input type="checkbox" id="menuToggle">
+        <label for="menuToggle" class="menu-ico">
+          <a href="#"><i class="fa fa-facebook-square"></i></a>
+          <a href="#"><i class="fa fa-instagram"></i></i></a>
+          <a href="#"><i class="fa fa-twitter"></i></a>
+        </label>
+      </div>
+
+    </section>
+
+    <!--Editorial-->
+
+    </div>
+
+  </main>
+  <footer class="container footer">
+    <div class="row">
+  
+      <p class="rodape"> <i class="fa fa-copyright"></i> Copyright 2021- Equipe MasterOwl - TIAW PUC Minas</p>
+    </div>
+  </footer>
+  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+    integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+    integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+    crossorigin="anonymous"></script>
+  <script src="script.js"></script>
+</body>
+
 </html>
