@@ -279,6 +279,7 @@ Bem sucedida! Se você não se cadastrar você não consegue fazer seu login!
 ![Tela de logar](images/tarefa2.png "Tela de logar")
 
 **TAREFA 3** Bem sucedida! Quando o usuário se logar, automaticamente ele vai para a tela principal
+<<<<<<< HEAD
 ![Tela de tarefa3](images/tarefa3.png "Tela de tarefa3")
 
 **TAREFA 4** Bem sucedida! Quando o usuário clicar em perfil, caso ele não esteja cadastrado, ele irá pra tela de cadastro
@@ -302,6 +303,31 @@ Bem sucedida! Se você não se cadastrar você não consegue fazer seu login!
 **TAREFA 12** Bem sucedida! Ao usuário clicar em sobre, ele consegue ver o intuito e oque apresenta no site!
 ![Tela de tarefa12](images/tarefa12.png "Tela de tarefa12")
 ![Tela de tarefa 12](images/tarefa 12.png "Tela de tarefa 12")
+=======
+![Tela de tarefa3](imagens/tarefa3.png "Tela de tarefa3")
+
+**TAREFA 4** Bem sucedida! Quando o usuário clicar em perfil, caso ele não esteja cadastrado, ele irá pra tela de cadastro
+![Tela de tarefa4](imagens/tarefa4.png "Tela de tarefa4")
+
+**TAREFA5** Bem sucedida! Quando o usuário clicar em matérias, ele irá ver as matérias disponíveis.
+![Tela de tarefa 5](imagens/tarefa 5.png "Tela de tarefa 5")
+![Tela de tarefa5](imagens/tarefa5.png "Tela de tarefa5")
+
+**TAREFA 8** Bem sucedida! Na parte final do site possui a parte de novidades para os usuários verem.
+![Tela de tarefa8](imagens/tarefa8.png "Tela de tarefa8")
+
+**TAREFA 9** Bem sucedida! Ao clicar na parte de Contatos o usuário pode visitar as redes sociais do criador!
+![Tela de tarefa 9](imagens/tarefa 9.png "Tela de tarefa 9")
+
+![Tela de tarefa9](imagens/tarefa9.png "Tela de tarefa9")
+
+**TAREFA 10** Bem sucedida! Se o usuário tiver salvado algum material no menu de matérias ele consegue visualizar todas elas.
+![Tela de tarefa10](imagens/tarefa10.png "Tela de tarefa10")
+
+**TAREFA 12** Bem sucedida! Ao usuário clicar em sobre, ele consegue ver o intuito e oque apresenta no site!
+![Tela de tarefa12](imagens/tarefa12.png "Tela de tarefa12")
+![Tela de tarefa 12](imagens/tarefa 12.png "Tela de tarefa 12")
+>>>>>>> 886622192c5278c9494e91135f8ad4bf7c6560b4
 
 **RELATÓRIO DE USUÁRIOS**
 
