@@ -1,0 +1,99 @@
+#wrapper {
+  min-height: 100%;
+  padding: 30px;
+  color: #fff;
+}
+
+.auth-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 8px;
+  margin: 0 auto;
+  padding-bottom: 30px;
+  min-height: 100%;
+  width: 100%;
+  max-width: 600px;
+}
+
+.logo-wrapper {
+  width: 100%;
+  max-width: 500px;
+  height: 300px;
+  background: url('../src/imagens/logo/logo.png') center no-repeat;
+  filter: brightness(0) invert(1);
+}
+
+#login-form {
+  min-width: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+label {
+  display: block;
+  font-family: 'Lato Bold';
+  margin-bottom: 10px;
+}
+
+input {
+  margin-bottom: 10px;
+  width: 100%;
+  padding: 6px 12px;
+  border-radius: 4px;
+  border: 1px solid #999;
+  font-size: 15px;
+}
+
+input:focus {
+  outline: none;
+}
+
+.anchor {
+  color: #fff;
+  font-family: 'Lato Bold';
+  text-align: center;
+}
+
+.btn {
+  display: inline-block;
+  border: none;
+  margin: 0;
+  text-decoration: none;
+  font-family: inherit;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-color: transparent;
+  border-radius: 6px;
+  padding: 10px 0;
+}
+
+.btn:active {
+  transform: scale(0.99);
+}
+
+.btn-primary {
+  min-width: 150px;
+  color: #fff;
+  background-color: #47525e;
+  align-self: center;
+  margin: 30px 0 15px;
+}
+
+.fields-wrapper {
+  display: flex;
+  margin-bottom: 10px;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  min-width: 100%;
+}
+
+.field {
+  width: 230px;
+}
