@@ -183,7 +183,7 @@ Critérios de Êxito	•	O site deve funcionar nos principais navegadores do mer
 
 -----------------------------------------------------------------------
 
------------------------------------------------------------------------# Plano de teste de usabilidade
+-----------------------------------------------------------------------**PLANO DE TESTE DE USABILIDADE**
 ## •	Identificação de objetivos a serem validados.
 
 O projeto tem como objetivo entregar àqueles alunos com dificuldades em absorver determinadas disciplinas uma maneira diferente de aprender, tornando-se uma ferramenta auxiliar para os professores e pais na resolução do problema das crianças e adolescentes.
@@ -243,7 +243,8 @@ Pedro Gomes.
 Aluno com as melhores notas da Escola Modelo, com 14 anos no 9 ano, diz ter muitas dificuldades ainda e deseja se dedicar nelas.
 
 **COMPROVANDO PESSOAS QUE TESTARAM**
-![Tela de Teste](images/quementroou.png "Tela de Teste")
+![tela de teste](images/quementrouu.png "tela de telese")
+
 
  **REGISTRO DE ERROS**
 
@@ -273,7 +274,7 @@ Depois de criar sua conta o menu de (PERFIL) para de funcionar, fazendo assim n�
 
 **TAREFA 1**
 Bem sucedida! Se você não se cadastrar você não consegue fazer seu login!
-![Tela de cadastrar](images/tarefa1.png "Tela de cadastrar")
+![Tela de cadastrar](images/tarefa 1.png "Tela de cadastrar")
 
 **TAREFA 2** Bem sucedida! Com sua conta cadastrada você consegue acessar facilmente!
 ![Tela de logar](images/tarefa2.png "Tela de logar")
@@ -281,6 +282,7 @@ Bem sucedida! Se você não se cadastrar você não consegue fazer seu login!
 **TAREFA 3** Bem sucedida! Quando o usuário se logar, automaticamente ele vai para a tela principal
 <<<<<<< HEAD
 ![Tela de tarefa3](images/tarefa3.png "Tela de tarefa3")
+
 
 **TAREFA 4** Bem sucedida! Quando o usuário clicar em perfil, caso ele não esteja cadastrado, ele irá pra tela de cadastro
 ![Tela de tarefa4](images/tarefa4.png "Tela de tarefa4")
@@ -302,32 +304,14 @@ Bem sucedida! Se você não se cadastrar você não consegue fazer seu login!
 
 **TAREFA 12** Bem sucedida! Ao usuário clicar em sobre, ele consegue ver o intuito e oque apresenta no site!
 ![Tela de tarefa12](images/tarefa12.png "Tela de tarefa12")
-![Tela de tarefa 12](images/tarefa 12.png "Tela de tarefa 12")
-=======
-![Tela de tarefa3](imagens/tarefa3.png "Tela de tarefa3")
 
-**TAREFA 4** Bem sucedida! Quando o usuário clicar em perfil, caso ele não esteja cadastrado, ele irá pra tela de cadastro
-![Tela de tarefa4](imagens/tarefa4.png "Tela de tarefa4")
 
-**TAREFA5** Bem sucedida! Quando o usuário clicar em matérias, ele irá ver as matérias disponíveis.
-![Tela de tarefa 5](imagens/tarefa 5.png "Tela de tarefa 5")
-![Tela de tarefa5](imagens/tarefa5.png "Tela de tarefa5")
 
-**TAREFA 8** Bem sucedida! Na parte final do site possui a parte de novidades para os usuários verem.
-![Tela de tarefa8](imagens/tarefa8.png "Tela de tarefa8")
 
-**TAREFA 9** Bem sucedida! Ao clicar na parte de Contatos o usuário pode visitar as redes sociais do criador!
-![Tela de tarefa 9](imagens/tarefa 9.png "Tela de tarefa 9")
 
-![Tela de tarefa9](imagens/tarefa9.png "Tela de tarefa9")
+![Tela de tarefa121](images/tarefa121.png "Tela de tarefa121")
 
-**TAREFA 10** Bem sucedida! Se o usuário tiver salvado algum material no menu de matérias ele consegue visualizar todas elas.
-![Tela de tarefa10](imagens/tarefa10.png "Tela de tarefa10")
 
-**TAREFA 12** Bem sucedida! Ao usuário clicar em sobre, ele consegue ver o intuito e oque apresenta no site!
-![Tela de tarefa12](imagens/tarefa12.png "Tela de tarefa12")
-![Tela de tarefa 12](imagens/tarefa 12.png "Tela de tarefa 12")
->>>>>>> 886622192c5278c9494e91135f8ad4bf7c6560b4
 
 **RELATÓRIO DE USUÁRIOS**
 
