@@ -3,127 +3,161 @@
 
 ## Requisitos Funcionais:
 
-**Caso de Teste	CT-01-**  Visualizar tela principal
+**Caso de Teste	CT-01-**  Fazer Login
 
-**Requisitos Associados-**	RF-01 - O site deve apresentar na página principal o conteúdo mais relevante para o usuário 
+**Requisitos Associados-**	RF-01 - O site deve permitir o login dos usuários
 
-**Objetivo do Teste-**	Verificar se a tela inicial apresenta todos os requisitos
-
-**Passos-**
-1) Acessar o Navegador
-2) Visualizar a página principal
-3) Verificar os conteúdos mais relevantes
-
-**Critérios de Êxito-**	•	Os conteúdos devem ser exibidos corretamente no site	
-
------------------------------------------------------------------------
-
-**Caso de Teste	CT-02-**  Visualizar imagens em cada conteúdo
-**Requisitos Associados-**	RF-02 - O site deve apresentar, para cada conteúdo, uma imagem correspondente ao assunto apresentado
-
-**Objetivo do Teste-**	Verificar se cada conteúdo apresenta uma imagem
-
-**Passos-**	
-1) Acessar o Navegador
-2) Verificar se apresenta uma imagem para cada assunto apresentado
-
-**Critérios de Êxito-**	•	Os conteúdos devem trazer imagens visíveis associadas a ele
-
------------------------------------------------------------------------
-
-**Caso de Teste	CT-03-**  Visualizar menu de matérias
-
-**Requisitos Associados-**	RF-02 - O site deve apresentar, para cada conteúdo, uma imagem correspondente ao assunto apresentado
-RF-03 - O site deve permitir ao usuário o acesso ao conteúdo digital relacionado à matéria para estudo
-
-**Objetivo do Teste-**	Verificar se o usuário tem a permissão de acesso ao conteúdo digital de cada matéria
-
-**Passos-**	
-1) Acessar o Navegador
-2) Informar o endereço do Site
-3) Visualizar a página principal
-4) Clicar em alguma matéria escolhida
-5) Verificar se apresenta uma imagem para cada assunto apresentado
-
-**Critérios de Êxito-**	A página deve o conteúdo da matéria escolhida com as imagens que os representa
-
------------------------------------------------------------------------
-
-**Caso de Teste	CT-04 –** Visualizar na tela principal, a opção de pesquisa
-
-**Requisitos Associados-**	RF-04 - O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um assunto específico que será informado na caixa de pesquisa.
-
-**Objetivo do Teste-**	Verificar se na tela inicial apresenta o comando “pesquisar” e se o usuário será guiado para a tela de resultado de pesquisa.
+**Objetivo do Teste-**	Verificar se o usuário apresenta o cadastro no site e permitir que ele navegue pelo site.
 
 **Passos-**
-1) Acessar o Navegador
-2) Visualizar a página principal
-3) Verificar se apresenta o comando pesquisar
-4) Verificar se o usuário foi encaminhado para a tela de resultados de pesquisa
-5) Verificar se apresenta os resultados corretamente
 
-**Critérios de Êxito-**	•	A tela principal deve apresentar o comando de pesquisa e deve guiar o usuário para uma página que irá apresentar os resultados pesquisados. 
+1) Acessar o Navegador;
+
+2) Entrar no site “MasterOwl”;
+
+3) Clicar em “Perfil” e realizar o login.
+
+**Critérios de Êxito-**	•	O usuário já cadastrado deve conseguir realizar o login.
 
 -----------------------------------------------------------------------
 
-**Caso de Teste	CT-05 –** Visualizar na tela principal, a de contatos
+**Caso de Teste	CT-02-**  Fazer o cadastro
+
+**Requisitos Associados-**	RF-02 - O site deve permitir o cadastro de usuários.
+
+**Objetivo do Teste-**	Verificar se o usuário conseguiu fazer o cadastro
+
+**Passos-**	
+1) Acessar o Navegador;
+
+2) Entrar no site “MasterOwl”;
+
+3)Clicar em “Perfil” e realizar o cadastro.
+
+**Critérios de Êxito-**	O site deve fornecer a página de cadastro para o usuário.
+-----------------------------------------------------------------------
+
+**Caso de Teste	CT-03-** Recuperar senha
+
+**Requisitos Associados-**	RF-02 - O site deve permitir que o usuário recupere sua senha.
+
+**Objetivo do Teste-**	Verificar se o usuário consegue recuperar sua senha
+
+**Passos-**	
+
+1) Acessar o Navegador;
+
+2) Entrar no site “MasterOwl”;
+
+3) Solicitar a recuperação de senha;
+
+4) Verificar se o usuário recebeu sua senha.
+
+
+**Critérios de Êxito-**	O site deve apresentar o comando de recuperar senha e fornecer a senha para o usuário que solicitou.
+
+-----------------------------------------------------------------------
+
+**Caso de Teste	CT-04 –** Visualizar na tela principal, a opção perfil
+
+**Requisitos Associados-**	RF-04 - O site deve ter uma página para visualizar e editar seu perfil.
+
+**Objetivo do Teste-**	Verificar se na tela inicial apresenta o comando “perfil” e se o usuário será guiado para a tela de perfil, onde poderá fazer algumas alterações.
+
+**Passos-**
+
+1) Acessar o Navegador;
+
+2) Visualizar a página principal;
+
+3) Verificar se apresenta o comando perfil;
+
+4) Verificar se o usuário foi encaminhado para a tela de perfil;
+
+5) Verificar se o usuário consegue fazer alterações.
+
+**Critérios de Êxito-**		A tela principal deve apresentar o comando de perfil e deve guiar o usuário para uma página que irá apresentar seu perfil. 
+
+-----------------------------------------------------------------------
+
+**Caso de Teste	CT-05 –** Visualizar na tela principal, a opção de contatos
 **Requisitos Associados**	RF-05 - O site deve permitir visualizar as informações de contatos do mantenedor do site.
 
-**Objetivo do Teste-**	Verificar se na tela inicial apresenta a opção de “contatos” e se o usuário será guiado 
-para a tela de contatos
+**Objetivo do Teste-**	Verificar se na tela inicial apresenta a opção de “contatos” e se o usuário será guiado para a tela de contatos
 
 **Passos-**	
-1) Acessar o Navegador
-2) Visualizar a página principal
-3) Verificar se apresenta o comando contatos
-4) Verificar se o usuário foi encaminhado para a tela de contatos
-5) Verificar se apresenta os contatos dos desenvolvedores
 
-**Critérios de Êxito-**	•	A tela principal deve apresentar o comando de contatos e apresentar todos os contatos dos desenvolvedores.
+1) Acessar o Navegador;
+
+2) Visualizar a página principal;
+
+3) Verificar se apresenta os contatos dos desenvolvedores.
+
+
+**Critérios de Êxito-**		A tela principal deve apresentar todos os contatos dos desenvolvedores.
 
 -----------------------------------------------------------------------
 
-**Caso de Teste	CT-06 –** Visualizar na tela principal, a de contatos
+**Caso de Teste	CT-06 –** Fazer upload dos conteúdos
 
 **Requisitos Associados**	RF-07 - O site deve permitir o upload de material por parte dos professores para as matérias.
 
-**Objetivo do Teste-**	Verificar se na tela inicial, visualizada pelo professor apresenta a opção de “Carregar conteúdo” 
+**Objetivo do Teste-**	Verificar se na tela inicial, visualizada pelo professor apresenta a opção de “Escolher Arquivo” 
 
 **Passos-**
-1) Acessar o Navegador
-2) Visualizar a página principal
-3) Verificar se apresenta o comando “Carregar conteúdo”
 
-**Critérios de Êxito-**	•	A tela principal deve apresentar o comando de carregar conteúdo.
+1) Acessar o Navegador;
+
+2) Entrar no site “MasterOwl”;
+
+3) Clicar em alguma matéria disponível;
+
+3) Verificar se apresenta o comando “Escolher Arquivo”.
+
+
+**Critérios de Êxito-**		A tela de matéria deve apresentar o comando de carregar conteúdo.
 
 -----------------------------------------------------------------------
-**Caso de Teste	CT-07 –** Visualizar na tela de cada conteúdo apresenta a opção de “salvar” 
+**Caso de Teste	CT-07 –** Visualizar na tela principal as matérias para estudo 
 
-**Requisitos Associados**	RF-08 - O site deve permitir salvar os conteúdos escolhidos.
+**Requisitos Associados**	RF-06 - O site deve permitir ao usuário o acesso ao conteúdo digital relacionado à matéria para estudo.
 
-**Objetivo do Teste-**	Verificar se na tela de cada conteúdo apresenta a opção de “salvar” e se o usuário realizou o salvamento do conteúdo dentro da opção “Materiais Salvos”, que fica na tela perfil.
+**Objetivo do Teste-**	Verificar se na tela principal apresenta o menu de matérias e se é possível o usuário navegar em todas.
 
 **Passos-**	
-1) Acessar o Navegador
-2) Visualizar na tela de conteúdo a opção “salvar”
-3) Verificar se na tela perfil apresenta o comando “Materiais Salvos”
-4) Verificar se o usuário realizou o salvamento dos conteúdos escolhidos
 
-**Critérios de Êxito-**	•	A tela de conteúdo deve apresentar a opção de salvar as atividades desejadas e ser salvas na tela de Materiais Salvos
+1) Acessar o Navegador;
+
+2) Entrar no site “MasterOwl”;
+
+3) Verificar se na tela principal apresenta o menu de matérias;
+
+4) Verificar se o usuário conseguiu acesso as páginas.
+
+
+**Critérios de Êxito-**•	A tela principal deve apresentar o menu de matérias.
 
 -----------------------------------------------------------------------
 **Caso de Teste	CT-08 –** Visualizar em cada tela o card de comentário
 
-**Requisitos Associados-**	RF-09 - O site deve permitir que os usuários possam comentar sobre o que acharam do conteúdo já assistido
+**Requisitos Associados-**	RF-08 -O site deve permitir que os usuários possam comentar sobre o que acharam do conteúdo já assistido
 
 **Objetivo do Teste-**	Verificar se nas telas escolhidas pelo usuário apresenta o card de comentário e se ele tem permissão para fazer um ou mais comentários 
 
 **Passos-**
-1) Acessar o Navegador
-2) Visualizar nas telas o card de comentário
-3) Verificar se o usuário consegue fazer comentários.
 
-**Critérios de Êxito-**	•	As telas devem apresentar o card de comentário e permitir que o usuário faça um ou mais usuários.
+1) Acessar o Navegador;
+
+2) Entrar no site “MasterOwl”;
+
+3)Clicar em alguma matéria disponível no menu de matérias;
+
+4) Visualizar na tela o card de comentário;
+
+5) Verificar se o usuário consegue fazer comentários.
+
+
+**Critérios de Êxito-**		As telas devem apresentar o card de comentário e permitir que o usuário faça um ou mais usuários.
 
 -----------------------------------------------------------------------
 
@@ -151,10 +185,12 @@ para a tela de contatos
 **Objetivo do Teste-**	Verificar se o site é responsivo
 
 **Passos-**	
-1) Acessar o site no Repl.it em outros aparelhos eletrônicos 
+
+1) Acessar o site no Repl.it em outros aparelhos eletrônicos
+
 2) Verificar se o site segui o padrão responsivo
 
-**Critérios de Êxito-**	•	O site deve ser responsivo
+**Critérios de Êxito-**		O site deve ser responsivo
 
 -----------------------------------------------------------------------
 **Caso de Teste	CT-03 –** Visualizar o contraste entre os elementos da tela em conformidade
@@ -164,10 +200,12 @@ para a tela de contatos
 **Objetivo do Teste-**	Verificar se o site apresenta contraste entre os elementos da tela em conformidade
 
 **Passos-**	
+
 1) Acessar o site no Repl.it
+
 2) Verificar se o site apresenta contraste entre os elementos da tela em conformidade
 
-**Critérios de Êxito-**	•	O site deve apresentar um bom nível de contraste entre os elementos da tela em conformidade
+**Critérios de Êxito-**		O site deve apresentar um bom nível de contraste entre os elementos da tela em conformidade
 
 -----------------------------------------------------------------------
 
@@ -178,12 +216,104 @@ para a tela de contatos
 **Objetivo do Teste-**	Verificar se o pode ser acessado nos principais browsers (Google Chrome, Firefox, Microsoft Edge)
 
 **Passos-**	
-1) Acessar o Repl.it em qualquer navegador
-Critérios de Êxito	•	O site deve funcionar nos principais navegadores do mercado
+
+1) Acessar o Repl.it em qualquer navegador.
+
+**Critérios de Êxito-**	O site deve funcionar nos principais navegadores do mercado
 
 -----------------------------------------------------------------------
 
------------------------------------------------------------------------**PLANO DE TESTE DE USABILIDADE**
+# REGISTRO DE TESTE DE SOFTWARE
+## Requisitos Funcionais:
+
+   	 **CT-01 – Fazer login**
+      ![Tela de TesteLogin](images/TesteLogin1.jpeg "Tela de TesteLogin1")-----------------------------------Figura 1--------------------------------------
+      ![Tela de TesteLogin](images/TesteLogin2.jpeg "Tela de TesteLogin1")-----------------------------------Figura 2--------------------------------------
+      ![Tela de TesteLogin](images/TesteLogin3.jpeg "Tela de TesteLogin1")-----------------------------------Figura 3--------------------------------------
+**Relatório de teste - **Ao entrar no site “MasterOwl”, o usuário verificou no cabeçalho a opção perfil. Ao clicar nessa opção, o usuário foi encaminhado para a tela de login (figura 1). Como o usuário ainda não havia se cadastrado no site, ele recebeu um aviso de redirecionamento para a tela de cadastro (figura 2). Após realizar o cadastro, o usuário visualizou no LocalStorage seus dados e foi encaminhado novamente para a página de login, onde conseguiu acesso ao site (figura 3).
+
+**Erros -** Não apresentou nenhum erro
+
+-----------------------------------------------------------------------
+**CT-02 – Fazer cadastro**
+      ![Tela de TesteCadastro](images/TesteCadastro1.jpeg "Tela de TesteLogin1")-----------------------------------Figura 1--------------------------------------
+      ![Tela de TesteLogin](images/TesteCadastro2.jpeg "Tela de TesteLogin1")-----------------------------------Figura 2--------------------------------------
+      ![Tela de TesteLogin](images/TesteCadastro3.jpeg "Tela de TesteLogin1")-----------------------------------Figura 3--------------------------------------
+**Relatório de teste - **Ao tentar o login no site ou clicar na opção “Cadastrar-se”, o usuário foi encaminhado para a tela de cadastro. Após o usuário preencher todos os campos obrigatórios, o localStorage salvou os dados (figura 2), retornou o usuário para a tela de login e permitiu o acesso ao site. (figura 3)
+
+**Erros -**Não apresentou nenum erro
+-----------------------------------------------------------------------
+**CT-03 – Recuperar Senha**
+      ![Tela de TesteRecuperar](images/TesteRecuperar1.jpeg "Tela de TesteLogin1")-----------------------------------Figura 1--------------------------------------
+      ![Tela de TesteLogin](images/TesteRecuperar2.jpeg "Tela de TesteLogin1")-----------------------------------Figura 2--------------------------------------
+**Relatório de teste - **Ao clicar na opção “Esqueceu a senha?”, o usuário foi encaminhado para a tela de Recuperar senha (figura 1), porém não foi enviado um email para recuperar a senha.
+
+**Erros -** O usuário não recebeu um email para recuperar a senha. Para resolver esse problema, a equipe irá olhar novamente o código e instalar uma API do Google(Contas Google).
+-----------------------------------------------------------------------
+**CT-04 – Visualizar na tela principal, a opção perfil**
+      ![Tela de TesteRecuperar](images/PerfilCabeçalho.png "Tela de TesteLogin1")-----------------------------------Figura 1--------------------------------------
+      
+**Relatório de teste - **O usuário ao entrar no site, verificou que o site apresentava o comando “Perfil” no cabeçalho, porém não conseguiu visualizar seu perfil.
+
+**Erros -** A página perfil não carrega para o usuário fazer alterações. Será necessário que a equipe MasterOwl avalie novamente o código e instale a nova página com as funções para o usuário alterar e visualizar.
+-----------------------------------------------------------------------
+**CT-05 – Visualizar na tela principal, a opção de contatos**
+      ![Tela de TesteRecuperar](images/ContatosCabeçalho.png "Tela de TesteLogin1")-----------------------------------Figura 1--------------------------------------
+      ![Tela de TesteLogin](images/TesteContatos1.jpeg "Tela de TesteLogin1")-----------------------------------Figura 2--------------------------------------
+**Relatório de teste - **O usuário ao entrar no site, verificou que o site apresentava o comando “Contatos” no cabeçalho (figura 1) e ao clicar, foi guiado para parte de Contato dos Desenvolvedores, onde apresenta todos os meios possíveis de comunicação com os mantedores do site (figura 2).
+
+**Erros -** Não apresentou nenhum erro.
+
+-----------------------------------------------------------------------
+**CT-06 – Fazer upload dos conteúdos**
+      ![Tela de TesteRecuperar](images/Upload1.jpeg "Tela de TesteLogin1")-----------------------------------Figura 1--------------------------------------
+      ![Tela de TesteLogin](images/Upload2.jpeg "Tela de TesteLogin1")-----------------------------------Figura 2--------------------------------------
+**Relatório de teste - **Ao clicar em alguma matéria no menu de matérias, o usuário e encaminhado para a tela de matérias, onde apresenta a opção de carregar um arquivo. Após clicar nessa opção, a pasta de Documentação do desktop do usuário é aberta (figura 1), porém ao clicar em abrir, o documento não carrega (figura2).
+
+**Erros -** A documentação escolhida pelo usuário não carrega no site. Será necessário que a equipe MasterOwl avalie novamente o código para achar o erro e concertar.
+
+-----------------------------------------------------------------------
+**CT-07 – Visualizar na tela principal as matérias para estudo**
+      ![Tela de TesteRecuperar](images/MateriaCabeçalho.png "Tela de TesteLogin1")-----------------------------------Figura 1--------------------------------------
+      ![Tela de TesteLogin](images/TesteMaterias1.jpeg "Tela de TesteLogin1")-----------------------------------Figura 2--------------------------------------
+       ![Tela de TesteLogin](images/TesteMateria2.jpeg "Tela de TesteLogin1")-----------------------------------Figura 3--------------------------------------
+**Relatório de teste - **O usuário ao entrar no site, verificou que o site apresentava o comando “Matérias” no cabeçalho (figura 1) e ao clicar, foi guiado para parte de Matérias, onde apresenta todas as matérias para estudo (figura 2). Ao clicar em qualquer card, o usuário será encaminhado para a tela Menu de Matérias, onde aparece o material da matéria escolhida (figura 3).
+
+**Erros -** Não apresentou nenhum erro.
+
+-----------------------------------------------------------------------
+**CT-08 – Visualizar em cada tela o card de comentário**
+      ![Tela de TesteRecuperar](images/TesteCard1.jpeg "Tela de TesteLogin1")-----------------------------------Figura 1--------------------------------------
+       ![Tela de TesteLogin](images/TesteMateria2.jpeg "Tela de TesteLogin1")-----------------------------------Figura 2--------------------------------------
+**Relatório de teste - **O usuário ao entrar na tela Menu de Matérias, verificou que existia o card de comentário, porém o seu comentário não ficou salvo no site.
+
+**Erros -** O comentário feito pelo usuário não ficou salvo no site. Será necessário que a equipe MasterOwl avalie novamente o código para achar o erro e concertar, permitindo assim que o usuário faça quantos comentários quiser.
+# REGISTRO DE TESTE DE SOFTWARE
+## Requisitos Não Funcionais:
+
+   	 **CT-01 – Visualizar o site no Repl.it**
+      
+**Relatório de teste - **O usuário acessou o site com a URL do Repl.it
+
+**Erros -** Não apresentou nenhum erro.
+**Link -** https://MasterOwl.fredrodrigues.repl.co
+-----------------------------------------------------------------------
+**CT-02 – Visualizar a responsividade do site**
+      ![Tela de TesteRecuperar](images/Responsividade1.jpeg "Tela de TesteLogin1")-----------------------------------Figura 1--------------------------------------
+       ![Tela de TesteLogin](images/Responsividade2.jpeg "Tela de TesteLogin1")-----------------------------------Figura 2--------------------------------------
+**Relatório de teste - **O site pode ser acessado pelo celular, porém ele não está 100% responsivo.
+
+**Erros -** O site não apresenta a responsividade totalmente correta. Será necessário que a equipe MasterOwl verifique novamente o código de Medie Queries.
+
+-----------------------------------------------------------------------
+**CT-04 – Visualizar o site nos principais browsers**
+      ![Tela de TesteRecuperar](images/BrowserEdge.jpeg "Tela de TesteLogin1")-----------------------------------Figura 1--------------------------------------
+       ![Tela de TesteLogin](images/BrowserGoogle.jpeg "Tela de TesteLogin1")-----------------------------------Figura 2--------------------------------------
+**Relatório de teste - **O site foi acessado nos principais navegadores de mercado.
+
+**Erros -** Não apresentou erros.
+-----------------------------------------------------------------------
+# PLANO DE TESTE DE USABILIDADE
 ## •	Identificação de objetivos a serem validados.
 
 O projeto tem como objetivo entregar àqueles alunos com dificuldades em absorver determinadas disciplinas uma maneira diferente de aprender, tornando-se uma ferramenta auxiliar para os professores e pais na resolução do problema das crianças e adolescentes.
