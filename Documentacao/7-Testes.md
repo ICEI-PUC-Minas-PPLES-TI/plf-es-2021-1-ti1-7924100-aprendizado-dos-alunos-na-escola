@@ -227,64 +227,64 @@
 ## Requisitos Funcionais:
 
    	 **CT-01 – Fazer login**
-      ![Tela de TesteLogin](images/TesteLogin1.jpeg "Tela de TesteLogin1")-----------------------------------Figura 1--------------------------------------
-      ![Tela de TesteLogin](images/TesteLogin2.jpeg "Tela de TesteLogin1")-----------------------------------Figura 2--------------------------------------
-      ![Tela de TesteLogin](images/TesteLogin3.jpeg "Tela de TesteLogin1")-----------------------------------Figura 3--------------------------------------
+      ![Tela de TesteLogin1](images/TesteLogin1.jpeg "Tela de TesteLogin2")-----------------------------------Figura 1--------------------------------------
+      ![Tela de TesteLogin2](images/TesteLogin2.jpeg "Tela de TesteLogin2")-----------------------------------Figura 2--------------------------------------
+      ![Tela de TesteLogin3](images/TesteLogin3.jpeg "Tela de TesteLogin2")-----------------------------------Figura 3--------------------------------------
 **Relatório de teste - **Ao entrar no site “MasterOwl”, o usuário verificou no cabeçalho a opção perfil. Ao clicar nessa opção, o usuário foi encaminhado para a tela de login (figura 1). Como o usuário ainda não havia se cadastrado no site, ele recebeu um aviso de redirecionamento para a tela de cadastro (figura 2). Após realizar o cadastro, o usuário visualizou no LocalStorage seus dados e foi encaminhado novamente para a página de login, onde conseguiu acesso ao site (figura 3).
 
 **Erros -** Não apresentou nenhum erro
 
 -----------------------------------------------------------------------
 **CT-02 – Fazer cadastro**
-      ![Tela de TesteCadastro](images/TesteCadastro1.jpeg "Tela de TesteLogin1")-----------------------------------Figura 1--------------------------------------
-      ![Tela de TesteLogin](images/TesteCadastro2.jpeg "Tela de TesteLogin1")-----------------------------------Figura 2--------------------------------------
-      ![Tela de TesteLogin](images/TesteCadastro3.jpeg "Tela de TesteLogin1")-----------------------------------Figura 3--------------------------------------
+      ![Tela de TesteCadastro1](images/TesteCadastro1.jpeg "Tela de TesteCadastro1")-----------------------------------Figura 1--------------------------------------
+      ![Tela de TesteCadastro2](images/TesteCadastro2.jpeg "Tela de TesteCadastro2")-----------------------------------Figura 2--------------------------------------
+      ![Tela de TesteCadastro3](images/TesteCadastro3.jpeg "Tela de TesteCadastro3")-----------------------------------Figura 3--------------------------------------
 **Relatório de teste - **Ao tentar o login no site ou clicar na opção “Cadastrar-se”, o usuário foi encaminhado para a tela de cadastro. Após o usuário preencher todos os campos obrigatórios, o localStorage salvou os dados (figura 2), retornou o usuário para a tela de login e permitiu o acesso ao site. (figura 3)
 
 **Erros -**Não apresentou nenum erro
 -----------------------------------------------------------------------
 **CT-03 – Recuperar Senha**
-      ![Tela de TesteRecuperar](images/TesteRecuperar1.jpeg "Tela de TesteLogin1")-----------------------------------Figura 1--------------------------------------
-      ![Tela de TesteLogin](images/TesteRecuperar2.jpeg "Tela de TesteLogin1")-----------------------------------Figura 2--------------------------------------
+      ![Tela de TesteRecuperar1](images/TesteRecuperar1.jpeg "Tela de TesteRecuperar1")-----------------------------------Figura 1--------------------------------------
+      ![Tela de TesteRecuperar2](images/TesteRecuperar2.jpeg "Tela de TesteRecuperar2")-----------------------------------Figura 2--------------------------------------
 **Relatório de teste - **Ao clicar na opção “Esqueceu a senha?”, o usuário foi encaminhado para a tela de Recuperar senha (figura 1), porém não foi enviado um email para recuperar a senha.
 
 **Erros -** O usuário não recebeu um email para recuperar a senha. Para resolver esse problema, a equipe irá olhar novamente o código e instalar uma API do Google(Contas Google).
 -----------------------------------------------------------------------
 **CT-04 – Visualizar na tela principal, a opção perfil**
-      ![Tela de TesteRecuperar](images/PerfilCabeçalho.png "Tela de TesteLogin1")-----------------------------------Figura 1--------------------------------------
+      ![Tela de TestePerfil](images/PerfilCabeçalho.png "Tela de TestePerfil")-----------------------------------Figura 1--------------------------------------
       
 **Relatório de teste - **O usuário ao entrar no site, verificou que o site apresentava o comando “Perfil” no cabeçalho, porém não conseguiu visualizar seu perfil.
 
 **Erros -** A página perfil não carrega para o usuário fazer alterações. Será necessário que a equipe MasterOwl avalie novamente o código e instale a nova página com as funções para o usuário alterar e visualizar.
 -----------------------------------------------------------------------
 **CT-05 – Visualizar na tela principal, a opção de contatos**
-      ![Tela de TesteRecuperar](images/ContatosCabeçalho.png "Tela de TesteLogin1")-----------------------------------Figura 1--------------------------------------
-      ![Tela de TesteLogin](images/TesteContatos1.jpeg "Tela de TesteLogin1")-----------------------------------Figura 2--------------------------------------
+      ![Tela de TesteContatos1](images/ContatosCabeçalho.png "Tela de TesteContatos1")-----------------------------------Figura 1--------------------------------------
+      ![Tela de TesteContatos2](images/TesteContatos1.jpeg "Tela de TesteContatos2")-----------------------------------Figura 2--------------------------------------
 **Relatório de teste - **O usuário ao entrar no site, verificou que o site apresentava o comando “Contatos” no cabeçalho (figura 1) e ao clicar, foi guiado para parte de Contato dos Desenvolvedores, onde apresenta todos os meios possíveis de comunicação com os mantedores do site (figura 2).
 
 **Erros -** Não apresentou nenhum erro.
 
 -----------------------------------------------------------------------
 **CT-06 – Fazer upload dos conteúdos**
-      ![Tela de TesteRecuperar](images/Upload1.jpeg "Tela de TesteLogin1")-----------------------------------Figura 1--------------------------------------
-      ![Tela de TesteLogin](images/Upload2.jpeg "Tela de TesteLogin1")-----------------------------------Figura 2--------------------------------------
+      ![Tela de Upload1](images/Upload1.jpeg "Tela de Upload1")-----------------------------------Figura 1--------------------------------------
+      ![Tela de Upload2](images/Upload2.jpeg "Tela de Upload2")-----------------------------------Figura 2--------------------------------------
 **Relatório de teste - **Ao clicar em alguma matéria no menu de matérias, o usuário e encaminhado para a tela de matérias, onde apresenta a opção de carregar um arquivo. Após clicar nessa opção, a pasta de Documentação do desktop do usuário é aberta (figura 1), porém ao clicar em abrir, o documento não carrega (figura2).
 
 **Erros -** A documentação escolhida pelo usuário não carrega no site. Será necessário que a equipe MasterOwl avalie novamente o código para achar o erro e concertar.
 
 -----------------------------------------------------------------------
 **CT-07 – Visualizar na tela principal as matérias para estudo**
-      ![Tela de TesteRecuperar](images/MateriaCabeçalho.png "Tela de TesteLogin1")-----------------------------------Figura 1--------------------------------------
-      ![Tela de TesteLogin](images/TesteMaterias1.jpeg "Tela de TesteLogin1")-----------------------------------Figura 2--------------------------------------
-       ![Tela de TesteLogin](images/TesteMateria2.jpeg "Tela de TesteLogin1")-----------------------------------Figura 3--------------------------------------
+      ![Tela de TesteMaterias](images/MateriaCabeçalho.png "Tela de TesteMateria")-----------------------------------Figura 1--------------------------------------
+      ![Tela de TesteMateria1](images/TesteMaterias1.jpeg "Tela de TesteMateria1")-----------------------------------Figura 2--------------------------------------
+       ![Tela de TesteMateria2](images/TesteMateria2.jpeg "Tela de TesteMateria2")-----------------------------------Figura 3--------------------------------------
 **Relatório de teste - **O usuário ao entrar no site, verificou que o site apresentava o comando “Matérias” no cabeçalho (figura 1) e ao clicar, foi guiado para parte de Matérias, onde apresenta todas as matérias para estudo (figura 2). Ao clicar em qualquer card, o usuário será encaminhado para a tela Menu de Matérias, onde aparece o material da matéria escolhida (figura 3).
 
 **Erros -** Não apresentou nenhum erro.
 
 -----------------------------------------------------------------------
 **CT-08 – Visualizar em cada tela o card de comentário**
-      ![Tela de TesteRecuperar](images/TesteCard1.jpeg "Tela de TesteLogin1")-----------------------------------Figura 1--------------------------------------
-       ![Tela de TesteLogin](images/TesteMateria2.jpeg "Tela de TesteLogin1")-----------------------------------Figura 2--------------------------------------
+      ![Tela de TesteCard](images/TesteCard1.jpeg "Tela de TesteCard")-----------------------------------Figura 1--------------------------------------
+       ![Tela de TesteCard1](images/TesteMateria2.jpeg "Tela de TesteCard1")-----------------------------------Figura 2--------------------------------------
 **Relatório de teste - **O usuário ao entrar na tela Menu de Matérias, verificou que existia o card de comentário, porém o seu comentário não ficou salvo no site.
 
 **Erros -** O comentário feito pelo usuário não ficou salvo no site. Será necessário que a equipe MasterOwl avalie novamente o código para achar o erro e concertar, permitindo assim que o usuário faça quantos comentários quiser.
@@ -299,16 +299,16 @@
 **Link -** https://MasterOwl.fredrodrigues.repl.co
 -----------------------------------------------------------------------
 **CT-02 – Visualizar a responsividade do site**
-      ![Tela de TesteRecuperar](images/Responsividade1.jpeg "Tela de TesteLogin1")-----------------------------------Figura 1--------------------------------------
-       ![Tela de TesteLogin](images/Responsividade2.jpeg "Tela de TesteLogin1")-----------------------------------Figura 2--------------------------------------
+      ![Tela de TesteResponsividade](images/Responsividade1.jpeg "Tela de TesteResponsividade")-----------------------------------Figura 1--------------------------------------
+       ![Tela de TesteResponsividade1](images/Responsividade2.jpeg "Tela de TesteResponsividade1")-----------------------------------Figura 2--------------------------------------
 **Relatório de teste - **O site pode ser acessado pelo celular, porém ele não está 100% responsivo.
 
 **Erros -** O site não apresenta a responsividade totalmente correta. Será necessário que a equipe MasterOwl verifique novamente o código de Medie Queries.
 
 -----------------------------------------------------------------------
 **CT-04 – Visualizar o site nos principais browsers**
-      ![Tela de TesteRecuperar](images/BrowserEdge.jpeg "Tela de TesteLogin1")-----------------------------------Figura 1--------------------------------------
-       ![Tela de TesteLogin](images/BrowserGoogle.jpeg "Tela de TesteLogin1")-----------------------------------Figura 2--------------------------------------
+      ![Tela de TesteBrowser](images/BrowserEdge.jpeg "Tela de TesteBrowser")-----------------------------------Figura 1--------------------------------------
+       ![Tela de TesteBrowser1](images/BrowserGoogle.jpeg "Tela de TesteBrowser1")-----------------------------------Figura 2--------------------------------------
 **Relatório de teste - **O site foi acessado nos principais navegadores de mercado.
 
 **Erros -** Não apresentou erros.
