@@ -243,7 +243,7 @@ Pedro Gomes.
 Aluno com as melhores notas da Escola Modelo, com 14 anos no 9 ano, diz ter muitas dificuldades ainda e deseja se dedicar nelas.
 
 **COMPROVANDO PESSOAS QUE TESTARAM**
-![tela de teste](images/quementrouu.png "tela de telese")
+![tela de teste](images/quemtestousim.png "tela de telese")
 
 
  **REGISTRO DE ERROS**
@@ -268,35 +268,34 @@ O usuário que entra pelo celular, não vai ter acesso a barra de menu, pois ela
 
 Depois de criar sua conta o menu de (PERFIL) para de funcionar, fazendo assim não conseguindo ver as informações privadas do usuário.
 
-![Tela de erro11](images/menu.png "Tela de erro11")
+![Tela de erro11](images/agoraomenu.png "Tela de erro11")
 
 ●	**Relatório com registro dos testes feitos**
 
 **TAREFA 1**
 Bem sucedida! Se você não se cadastrar você não consegue fazer seu login!
-![Tela de cadastrar](images/tarefa 1.png "Tela de cadastrar")
+![Tela de cadastrar](images/tarefa1.png "Tela de cadastrar")
 
 **TAREFA 2** Bem sucedida! Com sua conta cadastrada você consegue acessar facilmente!
 ![Tela de logar](images/tarefa2.png "Tela de logar")
 
 **TAREFA 3** Bem sucedida! Quando o usuário se logar, automaticamente ele vai para a tela principal
-<<<<<<< HEAD
+
 ![Tela de tarefa3](images/tarefa3.png "Tela de tarefa3")
 
 
 **TAREFA 4** Bem sucedida! Quando o usuário clicar em perfil, caso ele não esteja cadastrado, ele irá pra tela de cadastro
 ![Tela de tarefa4](images/tarefa4.png "Tela de tarefa4")
 
-**TAREFA5** Bem sucedida! Quando o usuário clicar em matérias, ele irá ver as matérias disponíveis.
-![Tela de tarefa 5](images/tarefa 5.png "Tela de tarefa 5")
+**TAREFA 5** Bem sucedida! Quando o usuário clicar em matérias, ele irá ver as matérias disponíveis.
+![Tela de tarefa 5](images/tarefa51.png "Tela de tarefa51")
 ![Tela de tarefa5](images/tarefa5.png "Tela de tarefa5")
 
 **TAREFA 8** Bem sucedida! Na parte final do site possui a parte de novidades para os usuários verem.
 ![Tela de tarefa8](images/tarefa8.png "Tela de tarefa8")
 
 **TAREFA 9** Bem sucedida! Ao clicar na parte de Contatos o usuário pode visitar as redes sociais do criador!
-![Tela de tarefa 9](images/tarefa 9.png "Tela de tarefa 9")
-
+![Tela de tarefa 91](images/contatosagora.png "Tela de tarefa 91")
 ![Tela de tarefa9](images/tarefa9.png "Tela de tarefa9")
 
 **TAREFA 10** Bem sucedida! Se o usuário tiver salvado algum material no menu de matérias ele consegue visualizar todas elas.
@@ -304,12 +303,13 @@ Bem sucedida! Se você não se cadastrar você não consegue fazer seu login!
 
 **TAREFA 12** Bem sucedida! Ao usuário clicar em sobre, ele consegue ver o intuito e oque apresenta no site!
 ![Tela de tarefa12](images/tarefa12.png "Tela de tarefa12")
+![Tela de tarefapfv](images/sobrevaidar.png "Tela de tarepfv")
 
 
 
 
 
-![Tela de tarefa121](images/tarefa121.png "Tela de tarefa121")
+
 
 
 
